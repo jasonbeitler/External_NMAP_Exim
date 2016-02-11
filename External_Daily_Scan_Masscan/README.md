@@ -16,3 +16,6 @@ mail
  - You can also adjust the masscan args if these dont fit your needs.
 
  - There is an external.rb and external_test.rb. This will allow you to always have a working copy and allow you to test new settings.
+
+ **DISCLAIMER**
+These scripts are for use with your IPs or IPs you have premission to scan. I will not take responsibility if you use these scripts to scan IPs you do not have premission to scan or otherwise use them in a malicious way. 
