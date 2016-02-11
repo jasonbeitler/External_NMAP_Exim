@@ -1,7 +1,7 @@
 README
 
 GEM required
-mail
+- mail
 
  - Uses exim or postfix - you will need to configure one of them your self
 
