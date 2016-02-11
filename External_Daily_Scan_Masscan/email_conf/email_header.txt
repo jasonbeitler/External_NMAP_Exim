@@ -1,0 +1,4 @@
+To: email@ddress
+From: external_Nmap@no-reply.com
+Subject: Daily Masscan Scan - External
+
