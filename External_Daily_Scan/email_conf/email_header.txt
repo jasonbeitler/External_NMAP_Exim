@@ -1,0 +1,3 @@
+To: add_email_address
+From: external_Nmap@no-reply.com
+Subject: Daily Nmap Scan - External
