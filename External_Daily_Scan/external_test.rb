@@ -21,7 +21,7 @@ puts "#{confDir + email_hd}"
 puts "Starting nmap scan."
 writer.puts("Starting nmap scan.")
 
-output = `nmap -iL #{targetList} -sS -T4 -PN -p1- -R --open -oN #{outFile}`
+output = `nmap -iL #{targetList} -sS -T4 -Pn -p1- -R --open -oN #{outFile}`
 
 if output.nil?
 	puts "Error scanning!"
