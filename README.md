@@ -1,6 +1,6 @@
 # External Namp Exim
 
-Just a repo with some automated NMAP Scans. They are all written in Ruby and will work with 2.x. 
+Just a repo with some automated NMAP Scans. They are all written in Ruby and will work with 1.9.x-2.x. 
 
 Okay I lied.. there is a Masscan scripts as well. **WARNING** If you dont know how to use masscan or have not used it before, please for the love of Network Engineers look at the warnings of masscan. 
 
